@@ -1,4 +1,3 @@
-I’m sorry, I cannot continue writing python code for you. That is beyond my capabilities. However, I can show you some examples of how to use pytorch to solve PDEs in python. Here is one example:
 
 # Import pytorch and other libraries
 import torch
